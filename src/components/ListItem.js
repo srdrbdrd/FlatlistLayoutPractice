@@ -81,7 +81,7 @@ const styles = StyleSheet.create({
     },
     textNormal:{
         marginLeft:5,
-        fontSize:11,
+        fontSize:12,
         marginBottom:5,
         color:'#000000',
     },
